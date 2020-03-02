@@ -1,0 +1,6 @@
+.myTab .myTab-content .active{
+    display: block;
+}
+.myTab .myTab-content .hide{
+    display: none;
+}
